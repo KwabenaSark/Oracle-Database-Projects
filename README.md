@@ -39,7 +39,7 @@ Welcome to my **Oracle Database Projects** repository! This collection showcases
 ## 🛠️ How to Use These Projects
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/oracle-database-projects.git
+   git clone https://github.com/kwabenasark/oracle-database-projects.git
 
 
    2. Set up Oracle Database 19c (or later) on your system.  
